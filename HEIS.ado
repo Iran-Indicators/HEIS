@@ -97,7 +97,7 @@ di "`tables'"
 // if "`erase'" == "true"{
 // 	cap erase "HEIS`year'.mdb"
 // }
-// end
+end
 
 **# append program
 program define append_UR 
